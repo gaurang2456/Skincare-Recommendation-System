@@ -1,0 +1,3 @@
+timestamp,age,skin_type,concerns,avg_severity,skin_health_score,cleanser,moisturizer,serum,sunscreen,confidence_score
+2026-06-15T17:29:43,25,Oily,Dark Spots,5.0,70,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid,0.85
+2026-06-15T17:31:52,22,Combination,Sun Damage;Large Pores;Uneven Skin Tone,5.0,60,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40,0.6975

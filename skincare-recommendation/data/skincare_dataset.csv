@@ -1,0 +1,1201 @@
+Age,Skin_Type,Concern,Severity_Score,Recommended_Cleanser,Recommended_Moisturizer,Recommended_Serum,Recommended_Sunscreen
+18,Sensitive,Dark Spots,1.08,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+65,Oily,Wrinkles,7.95,Balancing Micellar Cleanser,Rich Repair Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+21,Sensitive,Acne,6.73,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+34,Dry,Dryness,9.19,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+36,Normal,Acne,3.65,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+21,Sensitive,Large Pores,5.6,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+35,Combination,Wrinkles,1.93,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+37,Dry,Acne,4.12,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+43,Sensitive,Dark Spots,5.78,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+32,Dry,Wrinkles,5.96,Hydrating Cream Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Daily Defense SPF 40
+55,Oily,Large Pores,9.72,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+57,Sensitive,Redness,1.45,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+60,Normal,Dryness,9.59,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+64,Sensitive,Uneven Skin Tone,7.97,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+25,Normal,Hyperpigmentation,6.7,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+70,Sensitive,Wrinkles,9.28,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Tinted Mineral SPF 35
+24,Normal,Hyperpigmentation,3.45,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+27,Sensitive,Dark Spots,7.42,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Tinted Mineral SPF 35
+35,Combination,Sun Damage,5.28,Hydrating Cream Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+29,Combination,Hyperpigmentation,2.02,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+36,Dry,Wrinkles,1.85,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+46,Combination,Acne,8.03,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+20,Dry,Acne,3.52,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+27,Normal,Sun Damage,6.44,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+41,Dry,Sun Damage,6.68,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+19,Combination,Redness,1.47,Balancing Micellar Cleanser,Rich Repair Cream,Centella Calm Serum,Tinted Mineral SPF 35
+30,Normal,Dark Spots,4.4,Brightening Gel Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+21,Combination,Redness,5.77,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+51,Normal,Hyperpigmentation,3.72,Brightening Gel Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+65,Dry,Dark Spots,7.23,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+24,Oily,Dark Spots,5.71,Gentle Foaming Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+23,Normal,Redness,6.6,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+27,Dry,Dark Spots,7.51,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+48,Oily,Acne,5.13,Gentle Foaming Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+59,Normal,Wrinkles,7.81,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+43,Oily,Acne,5.97,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+55,Combination,Uneven Skin Tone,9.59,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+41,Sensitive,Dark Spots,4.27,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+23,Dry,Dryness,8.76,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+41,Dry,Fine Lines,3.22,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+29,Oily,Acne,9.64,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+45,Dry,Wrinkles,8.86,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+26,Dry,Dark Spots,5.4,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+33,Oily,Large Pores,1.61,Balancing Micellar Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+62,Normal,Uneven Skin Tone,2.9,Brightening Gel Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+20,Combination,Acne,8.12,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+32,Combination,Dryness,7.95,Brightening Gel Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+16,Sensitive,Sun Damage,7.75,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+33,Dry,Dark Spots,7.94,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+35,Oily,Dryness,5.32,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+36,Combination,Hyperpigmentation,9.92,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+40,Combination,Dryness,6.59,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+51,Combination,Dark Spots,8.45,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+48,Oily,Wrinkles,4.36,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+74,Combination,Acne,1.9,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+54,Dry,Uneven Skin Tone,2.73,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+63,Oily,Acne,1.68,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+42,Combination,Uneven Skin Tone,9.41,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+19,Normal,Dryness,8.15,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+17,Normal,Wrinkles,2.02,Brightening Gel Cleanser,Rich Repair Cream,Retinol Renewal Serum,Daily Defense SPF 40
+65,Combination,Uneven Skin Tone,8.11,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+25,Combination,Wrinkles,5.36,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+62,Dry,Fine Lines,9.76,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+37,Dry,Wrinkles,8.06,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+20,Normal,Large Pores,1.6,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+15,Oily,Sun Damage,6.17,Gentle Foaming Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+18,Dry,Redness,6.36,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+35,Dry,Large Pores,9.76,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+63,Combination,Sun Damage,9.16,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+71,Combination,Dark Spots,9.21,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+17,Normal,Fine Lines,7.01,Soothing Milk Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+31,Sensitive,Hyperpigmentation,7.09,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+48,Sensitive,Fine Lines,2.46,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+22,Normal,Acne,6.03,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+45,Sensitive,Hyperpigmentation,1.52,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+43,Normal,Redness,4.59,Balancing Micellar Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+36,Normal,Hyperpigmentation,5.09,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+65,Normal,Sun Damage,1.87,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+11,Combination,Uneven Skin Tone,7.51,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+65,Sensitive,Dryness,1.71,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+47,Sensitive,Uneven Skin Tone,4.16,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+64,Sensitive,Fine Lines,5.81,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+67,Dry,Uneven Skin Tone,7.97,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+31,Combination,Acne,8.88,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+19,Combination,Hyperpigmentation,6.23,Brightening Gel Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+72,Sensitive,Fine Lines,5.28,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+37,Oily,Dark Spots,7.87,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Daily Defense SPF 40
+52,Combination,Large Pores,6.51,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+51,Oily,Sun Damage,8.06,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+23,Sensitive,Wrinkles,9.51,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+58,Dry,Dryness,1.32,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+51,Sensitive,Fine Lines,6.96,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+36,Oily,Uneven Skin Tone,5.28,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+32,Sensitive,Large Pores,7.49,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+40,Sensitive,Fine Lines,8.15,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+95,Sensitive,Redness,6.14,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+87,Oily,Dark Spots,3.29,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+13,Sensitive,Dark Spots,5.2,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+73,Dry,Redness,7.14,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+36,Combination,Hyperpigmentation,8.38,Hydrating Cream Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+40,Oily,Redness,4.12,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+59,Dry,Uneven Skin Tone,5.44,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+30,Combination,Fine Lines,3.89,Soothing Milk Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+28,Dry,Redness,6.73,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+65,Combination,Wrinkles,2.25,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+63,Normal,Dryness,7.66,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+49,Dry,Fine Lines,5.65,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+58,Combination,Large Pores,6.07,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+33,Combination,Large Pores,9.67,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+58,Combination,Uneven Skin Tone,3.1,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+45,Combination,Fine Lines,4.5,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+57,Dry,Dryness,3.35,Hydrating Cream Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+23,Combination,Acne,1.15,Soothing Milk Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+30,Oily,Wrinkles,8.38,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+27,Normal,Dryness,4.73,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+52,Dry,Fine Lines,6.17,Soothing Milk Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+80,Dry,Hyperpigmentation,9.71,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+53,Normal,Redness,3.25,Balancing Micellar Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+63,Oily,Acne,4.3,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+32,Combination,Wrinkles,6.95,Balancing Micellar Cleanser,Rich Repair Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+55,Combination,Wrinkles,9.79,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+38,Sensitive,Hyperpigmentation,4.21,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+42,Oily,Wrinkles,4.14,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+18,Normal,Fine Lines,4.98,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+15,Normal,Wrinkles,9.47,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+89,Dry,Redness,3.66,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+39,Oily,Sun Damage,9.74,Hydrating Cream Cleanser,Oil-Free Hydrator,Centella Calm Serum,Tinted Mineral SPF 35
+21,Combination,Dark Spots,1.54,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+62,Combination,Large Pores,4.25,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+54,Sensitive,Dryness,9.69,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+88,Combination,Uneven Skin Tone,4.79,Gentle Foaming Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+13,Combination,Fine Lines,4.04,Brightening Gel Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+17,Normal,Fine Lines,9.68,Soothing Milk Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+60,Normal,Redness,1.01,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+34,Sensitive,Redness,7.78,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+19,Sensitive,Wrinkles,4.09,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+65,Dry,Large Pores,3.2,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+43,Dry,Fine Lines,6.86,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+71,Combination,Dark Spots,4.78,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+41,Sensitive,Redness,4.89,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+23,Normal,Large Pores,9.95,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+59,Normal,Dryness,7.67,Hydrating Cream Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+35,Normal,Acne,7.97,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+25,Dry,Redness,6.62,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+98,Normal,Acne,5.77,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+20,Oily,Sun Damage,4.13,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+47,Normal,Redness,5.44,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+11,Oily,Wrinkles,3.14,Hydrating Cream Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+25,Sensitive,Hyperpigmentation,9.01,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+41,Sensitive,Redness,8.25,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+50,Combination,Large Pores,5.66,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+39,Sensitive,Acne,8.64,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+59,Oily,Fine Lines,5.15,Gentle Foaming Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+45,Dry,Hyperpigmentation,2.08,Hydrating Cream Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+48,Dry,Dark Spots,6.48,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+20,Dry,Large Pores,2.22,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+86,Oily,Dryness,1.34,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+36,Dry,Dark Spots,3.68,Hydrating Cream Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+35,Dry,Redness,4.19,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+61,Normal,Fine Lines,6.11,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+30,Oily,Acne,1.57,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+56,Oily,Dryness,8.38,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+58,Normal,Sun Damage,6.0,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+27,Oily,Uneven Skin Tone,9.69,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+23,Normal,Fine Lines,9.1,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+47,Normal,Hyperpigmentation,7.14,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+50,Oily,Acne,3.48,Hydrating Cream Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+43,Dry,Uneven Skin Tone,2.68,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+62,Combination,Sun Damage,6.35,Hydrating Cream Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+39,Normal,Sun Damage,2.9,Hydrating Cream Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+39,Sensitive,Uneven Skin Tone,3.4,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+22,Oily,Hyperpigmentation,6.13,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+26,Combination,Redness,6.26,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+50,Combination,Fine Lines,3.69,Gentle Foaming Cleanser,Rich Repair Cream,Retinol Renewal Serum,Daily Defense SPF 40
+24,Normal,Uneven Skin Tone,6.97,Brightening Gel Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+42,Normal,Wrinkles,5.91,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+49,Normal,Dark Spots,5.7,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+25,Combination,Uneven Skin Tone,7.93,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+59,Normal,Redness,6.16,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+39,Sensitive,Dryness,9.27,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+20,Oily,Dryness,7.05,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+34,Oily,Dark Spots,1.29,Brightening Gel Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+47,Normal,Dark Spots,1.66,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+91,Oily,Acne,7.0,Balancing Micellar Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+35,Dry,Uneven Skin Tone,5.33,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+45,Normal,Large Pores,6.83,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+61,Sensitive,Uneven Skin Tone,3.05,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+40,Normal,Hyperpigmentation,1.77,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+51,Normal,Large Pores,6.98,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+57,Normal,Acne,1.99,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+13,Normal,Hyperpigmentation,8.62,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+32,Combination,Acne,9.98,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+30,Oily,Hyperpigmentation,6.8,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+71,Combination,Large Pores,1.62,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+98,Oily,Uneven Skin Tone,7.25,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+20,Combination,Fine Lines,3.48,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+100,Sensitive,Fine Lines,9.71,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+36,Combination,Acne,4.47,Soothing Milk Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+21,Normal,Sun Damage,5.98,Brightening Gel Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+39,Combination,Acne,4.44,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+28,Sensitive,Sun Damage,5.33,Brightening Gel Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Daily Defense SPF 40
+83,Combination,Acne,4.37,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+45,Normal,Dryness,8.76,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+76,Normal,Large Pores,6.1,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+27,Normal,Fine Lines,2.7,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+37,Dry,Hyperpigmentation,4.9,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+22,Combination,Dark Spots,1.03,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Daily Defense SPF 40
+65,Combination,Redness,2.4,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+54,Sensitive,Wrinkles,2.58,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+35,Sensitive,Redness,7.21,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+71,Dry,Dark Spots,1.69,Gentle Foaming Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+57,Dry,Redness,3.19,Soothing Milk Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+21,Combination,Hyperpigmentation,1.94,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+36,Combination,Hyperpigmentation,4.84,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+37,Normal,Fine Lines,1.43,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+65,Combination,Dark Spots,9.79,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+38,Dry,Acne,9.37,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+34,Normal,Hyperpigmentation,3.93,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+21,Oily,Sun Damage,8.49,Gentle Foaming Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+40,Sensitive,Acne,5.81,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+49,Dry,Fine Lines,2.64,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+55,Normal,Uneven Skin Tone,8.48,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+47,Sensitive,Redness,7.15,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+58,Dry,Uneven Skin Tone,9.6,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+21,Normal,Large Pores,2.73,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+18,Normal,Acne,3.71,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+59,Dry,Fine Lines,9.64,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+38,Normal,Large Pores,9.11,Gentle Foaming Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+45,Oily,Dryness,2.82,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+52,Oily,Redness,1.4,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+53,Oily,Wrinkles,6.28,Soothing Milk Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+10,Normal,Hyperpigmentation,4.66,Balancing Micellar Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Daily Defense SPF 40
+47,Normal,Dryness,9.23,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+53,Sensitive,Dark Spots,2.63,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+57,Sensitive,Hyperpigmentation,6.3,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+32,Dry,Acne,2.97,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+56,Combination,Sun Damage,3.71,Brightening Gel Cleanser,Oil-Free Hydrator,Centella Calm Serum,Daily Defense SPF 40
+63,Combination,Dark Spots,3.97,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+14,Normal,Sun Damage,7.46,Hydrating Cream Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+19,Combination,Sun Damage,1.59,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+26,Dry,Dryness,9.05,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+39,Normal,Sun Damage,3.76,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+63,Sensitive,Dark Spots,4.51,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+51,Dry,Hyperpigmentation,8.18,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+91,Sensitive,Dryness,8.59,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+30,Sensitive,Large Pores,8.17,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+31,Oily,Fine Lines,8.18,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+17,Dry,Dryness,8.78,Brightening Gel Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+13,Normal,Uneven Skin Tone,3.5,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+45,Sensitive,Uneven Skin Tone,9.97,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+57,Normal,Acne,3.64,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+22,Dry,Large Pores,1.43,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+61,Combination,Uneven Skin Tone,4.74,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+36,Normal,Redness,6.89,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+60,Sensitive,Uneven Skin Tone,3.0,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+77,Dry,Dryness,9.98,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+18,Combination,Redness,6.1,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+69,Oily,Sun Damage,1.79,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+55,Combination,Wrinkles,5.51,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+41,Dry,Redness,7.4,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+33,Combination,Dark Spots,8.16,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+17,Sensitive,Dryness,8.28,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+39,Normal,Sun Damage,6.77,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+53,Oily,Hyperpigmentation,1.07,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+43,Sensitive,Sun Damage,9.77,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+50,Dry,Wrinkles,9.6,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Tinted Mineral SPF 35
+41,Normal,Large Pores,1.85,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+35,Normal,Wrinkles,1.09,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+59,Normal,Fine Lines,2.2,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+42,Oily,Sun Damage,2.8,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+55,Dry,Acne,6.07,Hydrating Cream Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+41,Sensitive,Acne,5.82,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+46,Oily,Acne,2.23,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+58,Sensitive,Dark Spots,5.47,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+52,Sensitive,Uneven Skin Tone,5.08,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+66,Combination,Hyperpigmentation,9.84,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+37,Normal,Acne,3.35,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+53,Oily,Fine Lines,2.9,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+61,Oily,Sun Damage,2.67,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+67,Combination,Sun Damage,6.96,Brightening Gel Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+51,Combination,Acne,1.69,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+51,Combination,Hyperpigmentation,5.06,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+49,Combination,Dark Spots,5.88,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+27,Dry,Uneven Skin Tone,2.4,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+62,Dry,Fine Lines,1.49,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+52,Normal,Fine Lines,2.29,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+18,Dry,Uneven Skin Tone,3.2,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Tinted Mineral SPF 35
+41,Sensitive,Fine Lines,7.9,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+10,Dry,Sun Damage,5.49,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+36,Dry,Fine Lines,6.83,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+40,Combination,Uneven Skin Tone,4.05,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+63,Dry,Sun Damage,9.42,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+12,Dry,Sun Damage,8.97,Brightening Gel Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+100,Oily,Wrinkles,8.28,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+26,Oily,Wrinkles,3.32,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+54,Oily,Wrinkles,4.59,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+63,Oily,Redness,6.46,Gentle Foaming Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+58,Combination,Redness,1.49,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+58,Sensitive,Wrinkles,9.67,Soothing Milk Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+61,Oily,Redness,5.3,Gentle Foaming Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+63,Combination,Dryness,3.11,Gentle Foaming Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+23,Normal,Hyperpigmentation,5.57,Brightening Gel Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+40,Normal,Redness,1.88,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+32,Normal,Dark Spots,9.51,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+12,Normal,Wrinkles,9.37,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+17,Dry,Fine Lines,9.72,Gentle Foaming Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+38,Oily,Dark Spots,9.09,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+60,Oily,Fine Lines,3.37,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+40,Normal,Sun Damage,9.92,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+54,Sensitive,Acne,6.24,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+73,Sensitive,Wrinkles,2.8,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+74,Sensitive,Wrinkles,4.9,Brightening Gel Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+31,Normal,Acne,4.19,Gentle Foaming Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+77,Combination,Dark Spots,5.57,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+35,Dry,Sun Damage,3.49,Soothing Milk Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+27,Sensitive,Acne,4.94,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+48,Dry,Hyperpigmentation,2.28,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+28,Dry,Redness,9.39,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+70,Normal,Wrinkles,5.9,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+10,Sensitive,Acne,3.86,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+65,Combination,Acne,9.27,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+18,Normal,Wrinkles,1.22,Brightening Gel Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Daily Defense SPF 40
+26,Oily,Redness,5.37,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+51,Oily,Dark Spots,8.23,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+36,Oily,Dryness,9.27,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Lightweight SPF 50 Fluid
+56,Sensitive,Dark Spots,4.54,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Tinted Mineral SPF 35
+37,Normal,Wrinkles,2.62,Brightening Gel Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+41,Normal,Redness,8.48,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+41,Normal,Acne,1.76,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+44,Oily,Wrinkles,9.76,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+20,Oily,Acne,4.85,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+34,Oily,Hyperpigmentation,1.59,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+60,Sensitive,Dark Spots,7.83,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+21,Oily,Sun Damage,2.4,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+35,Oily,Acne,8.97,Gentle Foaming Cleanser,Oil-Free Hydrator,Centella Calm Serum,Lightweight SPF 50 Fluid
+24,Dry,Uneven Skin Tone,2.56,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+20,Combination,Acne,8.59,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Lightweight SPF 50 Fluid
+31,Sensitive,Wrinkles,8.28,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Tinted Mineral SPF 35
+31,Sensitive,Uneven Skin Tone,2.58,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+70,Combination,Dark Spots,7.62,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+35,Combination,Acne,3.25,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+37,Sensitive,Dark Spots,3.56,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+23,Sensitive,Acne,5.43,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+23,Normal,Large Pores,2.2,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+13,Combination,Dryness,1.2,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+100,Oily,Fine Lines,9.14,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+49,Sensitive,Uneven Skin Tone,3.84,Brightening Gel Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+61,Normal,Fine Lines,6.72,Soothing Milk Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+33,Normal,Redness,3.78,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+42,Combination,Acne,8.81,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+15,Oily,Fine Lines,5.74,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+52,Combination,Acne,3.28,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+91,Normal,Acne,1.86,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+28,Normal,Redness,3.55,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+61,Normal,Hyperpigmentation,6.35,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+11,Combination,Redness,2.2,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+63,Normal,Redness,8.37,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Daily Defense SPF 40
+23,Oily,Large Pores,3.56,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+28,Sensitive,Redness,4.44,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+31,Sensitive,Sun Damage,7.79,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+35,Dry,Uneven Skin Tone,2.83,Brightening Gel Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+43,Combination,Uneven Skin Tone,9.55,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+17,Normal,Sun Damage,4.13,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+19,Combination,Wrinkles,3.88,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+25,Dry,Uneven Skin Tone,1.81,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+21,Normal,Large Pores,8.89,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+35,Dry,Dryness,3.89,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+36,Dry,Dark Spots,8.1,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+62,Combination,Uneven Skin Tone,4.3,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+46,Sensitive,Acne,3.1,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+10,Oily,Large Pores,1.43,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+85,Dry,Acne,1.46,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+32,Oily,Uneven Skin Tone,9.35,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+46,Normal,Sun Damage,3.22,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+44,Sensitive,Redness,8.16,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+25,Combination,Dark Spots,5.72,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+54,Combination,Acne,8.69,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+23,Sensitive,Large Pores,1.76,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+91,Dry,Hyperpigmentation,1.15,Balancing Micellar Cleanser,Rich Repair Cream,Retinol Renewal Serum,Daily Defense SPF 40
+48,Oily,Hyperpigmentation,5.05,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+34,Combination,Fine Lines,3.46,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+31,Dry,Wrinkles,8.89,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+65,Combination,Acne,1.05,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+33,Combination,Wrinkles,2.38,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+41,Oily,Dryness,6.86,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+65,Combination,Redness,1.46,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Tinted Mineral SPF 35
+48,Combination,Dark Spots,8.72,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+60,Sensitive,Sun Damage,9.07,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+55,Normal,Large Pores,6.68,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+65,Sensitive,Redness,2.64,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Hydrating Sunscreen SPF 50
+18,Dry,Dryness,4.33,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+56,Oily,Dryness,6.88,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+65,Dry,Hyperpigmentation,7.74,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+39,Combination,Acne,6.48,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+18,Oily,Redness,8.74,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+74,Oily,Hyperpigmentation,5.33,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+45,Normal,Dryness,5.01,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+37,Dry,Wrinkles,8.3,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+64,Normal,Redness,3.71,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+59,Sensitive,Hyperpigmentation,3.91,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+11,Dry,Dryness,5.03,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+10,Oily,Dryness,1.23,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+59,Normal,Dryness,2.2,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+62,Oily,Large Pores,9.82,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+30,Combination,Wrinkles,2.47,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+43,Normal,Wrinkles,8.22,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+55,Sensitive,Dryness,3.57,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+30,Normal,Acne,3.78,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+26,Normal,Fine Lines,7.1,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Tinted Mineral SPF 35
+60,Combination,Acne,7.73,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+37,Combination,Uneven Skin Tone,1.32,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+65,Normal,Large Pores,9.89,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+48,Normal,Wrinkles,2.04,Brightening Gel Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Daily Defense SPF 40
+92,Combination,Hyperpigmentation,2.99,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+58,Dry,Dark Spots,7.53,Hydrating Cream Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+79,Normal,Large Pores,2.38,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+98,Oily,Large Pores,9.69,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+57,Dry,Acne,5.1,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+44,Normal,Hyperpigmentation,1.93,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+62,Sensitive,Fine Lines,1.5,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+32,Oily,Large Pores,1.02,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+32,Combination,Redness,7.34,Balancing Micellar Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+67,Combination,Dark Spots,1.9,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Daily Defense SPF 40
+33,Oily,Hyperpigmentation,2.76,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+55,Oily,Dryness,3.32,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+55,Oily,Acne,4.69,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+36,Normal,Wrinkles,2.72,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+62,Dry,Fine Lines,1.86,Balancing Micellar Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+25,Dry,Acne,9.98,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+61,Dry,Large Pores,6.05,Gentle Foaming Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+58,Normal,Sun Damage,1.1,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+56,Oily,Wrinkles,8.73,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+17,Sensitive,Uneven Skin Tone,1.01,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+32,Normal,Large Pores,7.21,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+45,Combination,Dark Spots,4.23,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+35,Combination,Wrinkles,4.59,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+32,Dry,Uneven Skin Tone,3.57,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+20,Combination,Dryness,5.45,Brightening Gel Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+46,Normal,Sun Damage,5.43,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+51,Dry,Dryness,4.47,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+30,Combination,Large Pores,2.12,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+59,Oily,Hyperpigmentation,8.87,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+29,Normal,Redness,8.53,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+75,Normal,Hyperpigmentation,1.24,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+24,Oily,Dryness,7.98,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+41,Sensitive,Sun Damage,3.46,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+45,Normal,Fine Lines,8.88,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+23,Normal,Wrinkles,2.78,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+16,Combination,Dryness,4.43,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+47,Sensitive,Hyperpigmentation,5.49,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+55,Normal,Uneven Skin Tone,4.22,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+62,Dry,Sun Damage,8.25,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+34,Sensitive,Fine Lines,4.88,Soothing Milk Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+64,Sensitive,Hyperpigmentation,8.2,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+36,Oily,Redness,2.91,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+30,Normal,Large Pores,2.31,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+16,Sensitive,Acne,1.74,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+80,Combination,Sun Damage,3.17,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+61,Normal,Dark Spots,6.84,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+59,Combination,Redness,3.26,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+61,Normal,Uneven Skin Tone,2.68,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+37,Sensitive,Large Pores,7.6,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+93,Combination,Uneven Skin Tone,8.01,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+40,Combination,Sun Damage,3.25,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+57,Sensitive,Redness,3.96,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+22,Oily,Redness,4.49,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+17,Normal,Acne,9.73,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+69,Oily,Large Pores,5.73,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+29,Sensitive,Hyperpigmentation,7.77,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+33,Normal,Fine Lines,5.96,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Lightweight SPF 50 Fluid
+51,Oily,Sun Damage,2.88,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+34,Dry,Acne,2.71,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+18,Dry,Redness,4.48,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+32,Sensitive,Sun Damage,3.95,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Tinted Mineral SPF 35
+45,Oily,Uneven Skin Tone,2.32,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+37,Combination,Large Pores,1.79,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+15,Normal,Uneven Skin Tone,9.65,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+45,Combination,Acne,4.53,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Tinted Mineral SPF 35
+46,Dry,Hyperpigmentation,1.9,Brightening Gel Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+56,Sensitive,Dark Spots,3.53,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+48,Oily,Dryness,8.03,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+32,Combination,Large Pores,1.19,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+45,Oily,Hyperpigmentation,3.98,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+12,Oily,Fine Lines,8.8,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+60,Dry,Dark Spots,2.76,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+36,Sensitive,Acne,9.57,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+21,Sensitive,Uneven Skin Tone,4.97,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+32,Normal,Fine Lines,2.71,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+60,Dry,Fine Lines,2.89,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+58,Normal,Dryness,1.57,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+86,Dry,Redness,3.37,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Oily,Uneven Skin Tone,5.54,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+47,Sensitive,Hyperpigmentation,2.53,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+33,Combination,Sun Damage,8.24,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+76,Combination,Wrinkles,1.82,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+27,Dry,Fine Lines,4.61,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+33,Normal,Large Pores,8.46,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+64,Dry,Uneven Skin Tone,5.09,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+54,Sensitive,Sun Damage,6.07,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+52,Sensitive,Dark Spots,2.32,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Daily Defense SPF 40
+38,Sensitive,Hyperpigmentation,5.86,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+40,Oily,Dark Spots,9.63,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+32,Dry,Sun Damage,4.42,Balancing Micellar Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+90,Oily,Uneven Skin Tone,9.04,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+56,Combination,Uneven Skin Tone,8.09,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+79,Sensitive,Uneven Skin Tone,6.16,Soothing Milk Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+34,Sensitive,Dryness,6.86,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+62,Normal,Acne,3.94,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+22,Sensitive,Fine Lines,5.76,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+43,Oily,Fine Lines,1.11,Gentle Foaming Cleanser,Rich Repair Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+21,Oily,Fine Lines,1.0,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+47,Sensitive,Acne,8.66,Soothing Milk Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Daily Defense SPF 40
+85,Normal,Fine Lines,1.49,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+43,Combination,Dark Spots,5.21,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+50,Sensitive,Fine Lines,8.1,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+41,Combination,Sun Damage,1.29,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+77,Dry,Acne,4.34,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+53,Dry,Redness,1.2,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+19,Combination,Hyperpigmentation,2.41,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+22,Oily,Dark Spots,4.63,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+59,Combination,Large Pores,7.68,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+50,Dry,Sun Damage,3.69,Balancing Micellar Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+49,Dry,Redness,1.5,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+79,Normal,Uneven Skin Tone,5.11,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+23,Normal,Sun Damage,8.25,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+56,Oily,Acne,4.31,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+50,Oily,Sun Damage,1.56,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+55,Normal,Acne,2.11,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+18,Sensitive,Hyperpigmentation,2.6,Gentle Foaming Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+40,Sensitive,Dryness,6.84,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+34,Sensitive,Dark Spots,8.73,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Tinted Mineral SPF 35
+40,Normal,Fine Lines,5.3,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Tinted Mineral SPF 35
+47,Normal,Dark Spots,1.34,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+65,Oily,Acne,4.47,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Hydrating Sunscreen SPF 50
+64,Dry,Sun Damage,5.16,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+92,Oily,Dark Spots,4.22,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+75,Oily,Dark Spots,5.21,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+52,Oily,Sun Damage,9.79,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+38,Oily,Dryness,9.49,Hydrating Cream Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+49,Combination,Uneven Skin Tone,5.28,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+56,Dry,Uneven Skin Tone,3.5,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+46,Combination,Sun Damage,1.0,Brightening Gel Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+49,Normal,Large Pores,1.1,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+13,Dry,Sun Damage,6.26,Soothing Milk Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Daily Defense SPF 40
+45,Oily,Dryness,1.62,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+41,Dry,Dryness,2.48,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+94,Dry,Sun Damage,5.51,Balancing Micellar Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+63,Sensitive,Wrinkles,3.96,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+29,Sensitive,Large Pores,9.02,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+51,Oily,Fine Lines,7.56,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+54,Combination,Redness,8.83,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Daily Defense SPF 40
+18,Dry,Wrinkles,8.07,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+14,Normal,Large Pores,4.23,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+63,Sensitive,Uneven Skin Tone,1.19,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+42,Oily,Hyperpigmentation,3.11,Brightening Gel Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+52,Oily,Redness,8.75,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+57,Combination,Dark Spots,6.0,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+57,Normal,Redness,4.62,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Daily Defense SPF 40
+53,Sensitive,Acne,1.98,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+45,Oily,Fine Lines,9.44,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Daily Defense SPF 40
+20,Combination,Dark Spots,3.1,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+20,Oily,Wrinkles,2.26,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+63,Oily,Dark Spots,3.04,Brightening Gel Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Hydrating Sunscreen SPF 50
+13,Dry,Acne,6.57,Soothing Milk Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+18,Combination,Fine Lines,5.6,Gentle Foaming Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+52,Dry,Dryness,9.39,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+43,Dry,Dark Spots,5.45,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+47,Sensitive,Large Pores,4.96,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+41,Sensitive,Redness,2.31,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+16,Dry,Dryness,4.35,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+36,Dry,Dryness,7.61,Hydrating Cream Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+28,Combination,Hyperpigmentation,9.59,Gentle Foaming Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+25,Combination,Fine Lines,7.08,Soothing Milk Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+16,Combination,Acne,3.5,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+25,Dry,Large Pores,6.99,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Hydrating Sunscreen SPF 50
+44,Sensitive,Dark Spots,2.26,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+21,Normal,Uneven Skin Tone,6.36,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+61,Oily,Dryness,1.95,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+58,Dry,Acne,9.53,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+33,Sensitive,Acne,6.49,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+89,Oily,Dryness,5.3,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+22,Dry,Sun Damage,6.07,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+30,Normal,Wrinkles,4.58,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+11,Combination,Hyperpigmentation,5.64,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+32,Combination,Dryness,5.7,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+27,Dry,Uneven Skin Tone,6.8,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+18,Combination,Large Pores,3.52,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Daily Defense SPF 40
+32,Oily,Wrinkles,2.82,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+26,Dry,Hyperpigmentation,4.27,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+23,Normal,Wrinkles,2.58,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+46,Combination,Uneven Skin Tone,1.24,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+55,Normal,Large Pores,2.16,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+34,Oily,Wrinkles,2.92,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+27,Combination,Acne,2.19,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+50,Dry,Fine Lines,4.12,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+51,Sensitive,Wrinkles,7.88,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+53,Sensitive,Dryness,8.41,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+63,Dry,Hyperpigmentation,2.23,Brightening Gel Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+23,Normal,Hyperpigmentation,6.44,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+21,Dry,Acne,5.59,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+65,Sensitive,Uneven Skin Tone,7.06,Brightening Gel Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+49,Oily,Fine Lines,4.46,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Daily Defense SPF 40
+56,Normal,Dryness,5.78,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+40,Oily,Dryness,5.97,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+26,Dry,Dark Spots,2.03,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+56,Dry,Acne,9.89,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+22,Sensitive,Sun Damage,2.57,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+64,Oily,Fine Lines,9.42,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+59,Sensitive,Redness,1.26,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+35,Oily,Uneven Skin Tone,2.25,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+33,Sensitive,Fine Lines,5.41,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+49,Combination,Fine Lines,6.88,Brightening Gel Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+44,Oily,Dark Spots,4.04,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+93,Oily,Acne,5.01,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+29,Sensitive,Dryness,2.14,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+33,Dry,Wrinkles,4.36,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+12,Dry,Large Pores,5.37,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+43,Normal,Wrinkles,5.81,Brightening Gel Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Daily Defense SPF 40
+92,Oily,Hyperpigmentation,4.96,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+15,Oily,Acne,2.27,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+52,Sensitive,Acne,6.66,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+63,Normal,Large Pores,4.43,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+14,Combination,Acne,2.96,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+35,Dry,Fine Lines,7.53,Soothing Milk Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+91,Sensitive,Redness,4.5,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+31,Oily,Wrinkles,3.93,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+51,Dry,Hyperpigmentation,1.47,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+99,Normal,Large Pores,4.08,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+54,Oily,Acne,9.54,Gentle Foaming Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+55,Normal,Dark Spots,2.65,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Daily Defense SPF 40
+29,Normal,Redness,7.06,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+60,Oily,Acne,5.92,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+16,Sensitive,Uneven Skin Tone,8.05,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+46,Combination,Sun Damage,9.02,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+57,Dry,Uneven Skin Tone,4.95,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+55,Normal,Large Pores,1.53,Soothing Milk Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+63,Sensitive,Large Pores,1.37,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+71,Sensitive,Acne,2.17,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+58,Oily,Dark Spots,4.68,Gentle Foaming Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Lightweight SPF 50 Fluid
+46,Oily,Acne,8.38,Hydrating Cream Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+38,Oily,Acne,4.92,Brightening Gel Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+19,Sensitive,Hyperpigmentation,7.63,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+52,Sensitive,Wrinkles,6.9,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+52,Normal,Redness,7.62,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Combination,Uneven Skin Tone,8.59,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+33,Sensitive,Redness,8.89,Soothing Milk Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+65,Sensitive,Dark Spots,8.18,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Tinted Mineral SPF 35
+31,Oily,Uneven Skin Tone,2.91,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+37,Oily,Dark Spots,2.32,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+21,Combination,Uneven Skin Tone,7.36,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+11,Dry,Dark Spots,7.23,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+44,Sensitive,Dark Spots,4.15,Soothing Milk Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Tinted Mineral SPF 35
+23,Oily,Hyperpigmentation,3.95,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+42,Combination,Dryness,4.45,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+49,Sensitive,Redness,1.46,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+34,Dry,Fine Lines,5.58,Soothing Milk Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Hydrating Sunscreen SPF 50
+35,Dry,Acne,4.58,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+57,Normal,Uneven Skin Tone,5.79,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+36,Oily,Hyperpigmentation,7.37,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+67,Normal,Dryness,9.4,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+28,Combination,Acne,5.64,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Lightweight SPF 50 Fluid
+13,Normal,Sun Damage,5.55,Brightening Gel Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Daily Defense SPF 40
+43,Oily,Large Pores,8.39,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+61,Oily,Redness,9.99,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+21,Combination,Wrinkles,3.46,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+36,Sensitive,Sun Damage,7.86,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+75,Oily,Uneven Skin Tone,1.47,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+58,Combination,Redness,9.55,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+29,Combination,Dark Spots,1.67,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+62,Combination,Uneven Skin Tone,2.04,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+59,Combination,Redness,3.31,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+61,Combination,Acne,5.3,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+40,Sensitive,Acne,5.61,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+39,Dry,Redness,1.7,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+35,Normal,Fine Lines,9.6,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+85,Normal,Wrinkles,2.54,Brightening Gel Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Hydrating Sunscreen SPF 50
+96,Oily,Large Pores,7.94,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+60,Normal,Hyperpigmentation,4.93,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+24,Oily,Hyperpigmentation,1.42,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+21,Oily,Dark Spots,8.13,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+64,Sensitive,Acne,4.28,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+23,Dry,Hyperpigmentation,3.64,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+31,Combination,Acne,5.38,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+51,Dry,Dryness,1.34,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+65,Sensitive,Fine Lines,8.8,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+19,Normal,Hyperpigmentation,1.63,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+52,Sensitive,Fine Lines,1.12,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+25,Sensitive,Wrinkles,5.67,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+47,Combination,Dark Spots,2.49,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+47,Combination,Redness,1.22,Brightening Gel Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+52,Sensitive,Redness,2.76,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+65,Combination,Large Pores,4.81,Balancing Micellar Cleanser,Oil-Free Hydrator,Centella Calm Serum,Tinted Mineral SPF 35
+60,Normal,Sun Damage,7.28,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+16,Dry,Dryness,2.4,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+55,Combination,Dryness,2.75,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+22,Dry,Sun Damage,3.45,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+39,Oily,Hyperpigmentation,7.11,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+91,Oily,Acne,2.49,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+49,Sensitive,Uneven Skin Tone,5.21,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+52,Oily,Hyperpigmentation,1.97,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+56,Normal,Sun Damage,6.98,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+53,Combination,Sun Damage,5.89,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+53,Normal,Uneven Skin Tone,7.03,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+19,Dry,Uneven Skin Tone,1.12,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+43,Dry,Large Pores,8.36,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+55,Oily,Redness,9.08,Soothing Milk Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+23,Combination,Acne,5.6,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+65,Sensitive,Sun Damage,5.55,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+43,Normal,Large Pores,7.52,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+49,Combination,Uneven Skin Tone,8.43,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+46,Sensitive,Uneven Skin Tone,9.68,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+39,Sensitive,Hyperpigmentation,9.14,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+29,Sensitive,Uneven Skin Tone,5.23,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+61,Combination,Dryness,7.12,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+23,Combination,Acne,9.14,Balancing Micellar Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+54,Oily,Dryness,1.42,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+33,Normal,Large Pores,1.48,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+52,Normal,Hyperpigmentation,4.65,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+58,Dry,Large Pores,6.96,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Hydrating Sunscreen SPF 50
+65,Dry,Acne,8.89,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+23,Combination,Hyperpigmentation,1.95,Brightening Gel Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+34,Dry,Sun Damage,7.88,Hydrating Cream Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+31,Dry,Hyperpigmentation,4.12,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+51,Normal,Wrinkles,3.59,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+47,Dry,Uneven Skin Tone,7.54,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+26,Oily,Dark Spots,4.51,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+46,Oily,Dark Spots,3.73,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+30,Dry,Uneven Skin Tone,2.23,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+31,Sensitive,Dryness,6.19,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+50,Sensitive,Dark Spots,1.59,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+60,Normal,Sun Damage,2.82,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+34,Dry,Dryness,5.29,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+57,Sensitive,Acne,2.22,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+28,Combination,Acne,4.33,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+44,Combination,Dryness,2.02,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+34,Sensitive,Dark Spots,8.03,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+30,Dry,Large Pores,5.49,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+58,Normal,Fine Lines,2.14,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+29,Combination,Wrinkles,4.63,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+53,Sensitive,Acne,9.35,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+51,Combination,Large Pores,1.25,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+57,Combination,Wrinkles,4.22,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+32,Sensitive,Fine Lines,5.86,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Normal,Fine Lines,2.8,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+28,Sensitive,Dark Spots,1.69,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+23,Oily,Wrinkles,2.06,Balancing Micellar Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Sensitive,Wrinkles,9.48,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+99,Normal,Large Pores,1.51,Balancing Micellar Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+87,Oily,Large Pores,1.15,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+60,Combination,Fine Lines,7.82,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+42,Dry,Acne,6.14,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+55,Dry,Fine Lines,2.8,Gentle Foaming Cleanser,Rich Repair Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+39,Oily,Wrinkles,3.22,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+41,Normal,Fine Lines,7.17,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+45,Normal,Large Pores,2.42,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+62,Sensitive,Dark Spots,3.88,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+41,Combination,Redness,8.76,Hydrating Cream Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+39,Dry,Wrinkles,6.69,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+53,Normal,Redness,7.18,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+40,Normal,Fine Lines,8.28,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+17,Oily,Redness,5.22,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+64,Oily,Sun Damage,7.37,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+57,Dry,Large Pores,2.93,Balancing Micellar Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+24,Sensitive,Dark Spots,7.15,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+30,Dry,Redness,4.37,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+36,Combination,Uneven Skin Tone,3.09,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+25,Dry,Hyperpigmentation,4.47,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+54,Normal,Redness,5.62,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+57,Normal,Acne,8.28,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+27,Oily,Dark Spots,2.75,Gentle Foaming Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+23,Dry,Wrinkles,8.08,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+19,Combination,Wrinkles,5.22,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+35,Normal,Wrinkles,6.92,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+45,Dry,Sun Damage,1.34,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+28,Oily,Large Pores,8.77,Soothing Milk Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+50,Sensitive,Uneven Skin Tone,8.4,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+22,Dry,Dark Spots,7.34,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+36,Sensitive,Large Pores,8.89,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+41,Normal,Fine Lines,3.34,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+39,Dry,Sun Damage,8.27,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+58,Combination,Redness,5.22,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+26,Combination,Dark Spots,2.59,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+72,Dry,Sun Damage,4.16,Balancing Micellar Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+79,Combination,Wrinkles,7.69,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+43,Sensitive,Wrinkles,3.28,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+20,Dry,Uneven Skin Tone,4.91,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+38,Dry,Uneven Skin Tone,4.82,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+56,Normal,Redness,1.77,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+15,Dry,Dryness,8.97,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+52,Combination,Sun Damage,8.94,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+35,Sensitive,Redness,6.19,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+17,Dry,Hyperpigmentation,6.52,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+81,Dry,Dark Spots,5.21,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+28,Oily,Hyperpigmentation,5.11,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+59,Dry,Uneven Skin Tone,5.84,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+59,Normal,Acne,2.71,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+34,Normal,Uneven Skin Tone,8.17,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+62,Combination,Redness,6.1,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+48,Sensitive,Acne,2.71,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+60,Dry,Large Pores,1.65,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+22,Dry,Fine Lines,8.13,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+26,Sensitive,Sun Damage,2.34,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+38,Oily,Large Pores,2.31,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+59,Dry,Large Pores,8.43,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+31,Normal,Wrinkles,6.37,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+30,Combination,Uneven Skin Tone,3.18,Brightening Gel Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+18,Normal,Large Pores,6.34,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+35,Oily,Sun Damage,2.26,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+18,Dry,Dryness,5.7,Hydrating Cream Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+39,Oily,Large Pores,2.62,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+34,Oily,Fine Lines,2.05,Gentle Foaming Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+56,Normal,Acne,9.33,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+10,Sensitive,Fine Lines,5.36,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+54,Normal,Large Pores,6.9,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+36,Dry,Dark Spots,9.2,Hydrating Cream Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+33,Normal,Sun Damage,3.98,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+60,Normal,Large Pores,3.08,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+57,Combination,Dark Spots,4.08,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+65,Sensitive,Acne,1.14,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+57,Dry,Fine Lines,3.62,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+33,Sensitive,Hyperpigmentation,2.64,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+66,Sensitive,Dark Spots,8.14,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+20,Combination,Sun Damage,9.2,Brightening Gel Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+31,Sensitive,Sun Damage,1.85,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+35,Oily,Fine Lines,4.22,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+60,Normal,Sun Damage,4.01,Hydrating Cream Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+50,Combination,Dryness,7.8,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+29,Normal,Large Pores,6.98,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+50,Combination,Dryness,4.84,Brightening Gel Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+25,Dry,Acne,3.45,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+28,Sensitive,Large Pores,4.31,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+64,Dry,Sun Damage,5.1,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+20,Oily,Dryness,7.23,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+46,Normal,Wrinkles,3.49,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+21,Oily,Wrinkles,9.8,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+48,Dry,Fine Lines,5.22,Soothing Milk Cleanser,Rich Repair Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+31,Sensitive,Wrinkles,6.54,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+49,Normal,Hyperpigmentation,1.73,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+18,Sensitive,Redness,5.07,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+53,Oily,Wrinkles,9.6,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+46,Sensitive,Dryness,4.34,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+58,Combination,Dryness,4.54,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+23,Sensitive,Fine Lines,6.65,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+32,Combination,Fine Lines,2.89,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+64,Oily,Acne,1.82,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+24,Dry,Hyperpigmentation,7.68,Hydrating Cream Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+75,Dry,Wrinkles,4.91,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+64,Sensitive,Dark Spots,5.99,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+33,Oily,Dryness,6.02,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+83,Combination,Acne,5.55,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+54,Combination,Sun Damage,3.73,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+98,Dry,Large Pores,7.57,Gentle Foaming Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+52,Oily,Redness,6.7,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+77,Normal,Fine Lines,1.63,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+31,Combination,Fine Lines,5.33,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+75,Sensitive,Dryness,5.23,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+39,Oily,Redness,2.54,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+30,Sensitive,Uneven Skin Tone,1.94,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+50,Normal,Hyperpigmentation,6.7,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+41,Dry,Hyperpigmentation,7.65,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+55,Dry,Fine Lines,3.36,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+52,Oily,Uneven Skin Tone,5.09,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+24,Combination,Redness,2.92,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+18,Oily,Acne,3.48,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+61,Oily,Redness,8.43,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+47,Oily,Acne,8.07,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+25,Dry,Sun Damage,9.53,Balancing Micellar Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+51,Normal,Uneven Skin Tone,2.38,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+24,Dry,Hyperpigmentation,9.47,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+75,Combination,Uneven Skin Tone,7.21,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+50,Normal,Fine Lines,6.47,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Tinted Mineral SPF 35
+34,Normal,Acne,4.64,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Hydrating Sunscreen SPF 50
+27,Oily,Dark Spots,8.26,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+56,Combination,Dark Spots,2.0,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+48,Combination,Uneven Skin Tone,1.87,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+38,Sensitive,Hyperpigmentation,8.96,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+88,Sensitive,Sun Damage,3.82,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+77,Combination,Dark Spots,8.51,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+59,Oily,Large Pores,2.9,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+43,Normal,Sun Damage,1.26,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+20,Normal,Redness,8.62,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+49,Combination,Uneven Skin Tone,5.2,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+12,Combination,Wrinkles,8.55,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+27,Normal,Sun Damage,2.32,Brightening Gel Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+23,Oily,Redness,2.51,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+31,Normal,Dark Spots,1.72,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+54,Dry,Redness,3.96,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+67,Dry,Dark Spots,1.36,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+42,Sensitive,Dark Spots,9.73,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+16,Oily,Wrinkles,7.12,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+16,Combination,Hyperpigmentation,9.09,Brightening Gel Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+29,Normal,Large Pores,7.58,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+55,Dry,Redness,6.92,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+84,Oily,Dryness,1.2,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+26,Normal,Uneven Skin Tone,4.04,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+31,Oily,Acne,8.76,Gentle Foaming Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+45,Sensitive,Hyperpigmentation,9.78,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+20,Oily,Sun Damage,2.09,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+68,Normal,Uneven Skin Tone,2.5,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+47,Dry,Large Pores,9.32,Gentle Foaming Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+32,Combination,Uneven Skin Tone,6.29,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+51,Dry,Fine Lines,1.47,Brightening Gel Cleanser,Rich Repair Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+18,Normal,Acne,3.02,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+33,Sensitive,Acne,9.04,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+48,Oily,Acne,4.11,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+46,Dry,Redness,7.4,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+65,Combination,Uneven Skin Tone,2.72,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+18,Dry,Dark Spots,3.79,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+64,Sensitive,Redness,6.12,Soothing Milk Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+63,Oily,Dark Spots,3.01,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+29,Combination,Dark Spots,8.13,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+24,Dry,Dryness,6.77,Brightening Gel Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+30,Sensitive,Large Pores,5.67,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+99,Combination,Dark Spots,8.14,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+29,Combination,Redness,3.49,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+54,Dry,Acne,8.75,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+53,Sensitive,Acne,8.86,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+22,Sensitive,Fine Lines,8.17,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+37,Sensitive,Dark Spots,8.34,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+63,Combination,Acne,6.33,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+19,Dry,Wrinkles,3.79,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+26,Combination,Sun Damage,1.53,Brightening Gel Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Daily Defense SPF 40
+53,Normal,Uneven Skin Tone,4.29,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Daily Defense SPF 40
+36,Dry,Hyperpigmentation,3.23,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+47,Dry,Dark Spots,1.31,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+20,Sensitive,Acne,3.29,Soothing Milk Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+31,Sensitive,Wrinkles,5.48,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+41,Dry,Uneven Skin Tone,2.55,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+91,Sensitive,Sun Damage,8.1,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+45,Oily,Dark Spots,1.74,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+45,Sensitive,Hyperpigmentation,6.1,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+41,Dry,Large Pores,6.42,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+26,Dry,Redness,7.95,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+32,Normal,Wrinkles,5.74,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+44,Combination,Redness,8.4,Gentle Foaming Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+23,Normal,Dark Spots,7.57,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+19,Dry,Dryness,6.99,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+57,Oily,Dryness,6.89,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+29,Oily,Uneven Skin Tone,1.37,Soothing Milk Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+62,Oily,Redness,9.05,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+32,Normal,Uneven Skin Tone,3.93,Soothing Milk Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+22,Dry,Wrinkles,5.8,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+40,Oily,Acne,5.92,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+24,Combination,Redness,2.55,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+13,Dry,Sun Damage,5.13,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+50,Sensitive,Acne,6.92,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+73,Dry,Acne,3.87,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+65,Dry,Acne,6.22,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+25,Normal,Dryness,9.71,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+30,Dry,Acne,5.94,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+58,Oily,Fine Lines,3.83,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+53,Normal,Acne,1.16,Balancing Micellar Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+36,Dry,Dark Spots,6.13,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+29,Combination,Dark Spots,4.34,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+45,Sensitive,Sun Damage,6.8,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+44,Dry,Dryness,7.99,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+49,Sensitive,Dryness,9.18,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+59,Dry,Large Pores,4.07,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+41,Combination,Wrinkles,7.01,Soothing Milk Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+49,Sensitive,Uneven Skin Tone,2.92,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+42,Sensitive,Fine Lines,1.02,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+58,Sensitive,Sun Damage,6.92,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Hydrating Sunscreen SPF 50
+94,Oily,Uneven Skin Tone,3.47,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+63,Combination,Fine Lines,4.42,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+42,Normal,Uneven Skin Tone,9.24,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+17,Sensitive,Uneven Skin Tone,3.16,Soothing Milk Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+33,Oily,Wrinkles,9.64,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+43,Sensitive,Redness,1.62,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+95,Combination,Dark Spots,9.7,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+71,Combination,Wrinkles,1.31,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+18,Sensitive,Redness,5.95,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+100,Oily,Fine Lines,4.13,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+17,Oily,Acne,7.94,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+26,Normal,Large Pores,4.61,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+55,Combination,Redness,2.07,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+19,Combination,Hyperpigmentation,1.21,Balancing Micellar Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+56,Sensitive,Redness,8.8,Soothing Milk Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+30,Sensitive,Dryness,4.11,Soothing Milk Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+50,Normal,Wrinkles,7.56,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+55,Sensitive,Large Pores,7.14,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+55,Sensitive,Hyperpigmentation,4.95,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+28,Normal,Large Pores,1.26,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+42,Sensitive,Large Pores,7.13,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+64,Oily,Acne,6.0,Balancing Micellar Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+27,Combination,Dryness,2.11,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+49,Oily,Uneven Skin Tone,3.59,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+18,Dry,Dark Spots,4.88,Hydrating Cream Cleanser,Rich Repair Cream,Centella Calm Serum,Hydrating Sunscreen SPF 50
+65,Sensitive,Wrinkles,3.17,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Tinted Mineral SPF 35
+28,Sensitive,Fine Lines,5.29,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Oily,Large Pores,9.14,Balancing Micellar Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+61,Combination,Sun Damage,1.67,Brightening Gel Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+33,Dry,Dryness,4.11,Gentle Foaming Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+20,Oily,Dark Spots,9.39,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+20,Normal,Fine Lines,5.65,Soothing Milk Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+66,Sensitive,Hyperpigmentation,1.26,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+65,Oily,Acne,2.42,Hydrating Cream Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+60,Sensitive,Dark Spots,7.95,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Tinted Mineral SPF 35
+11,Dry,Large Pores,4.22,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+13,Normal,Hyperpigmentation,9.3,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+84,Sensitive,Dryness,9.35,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+44,Oily,Dryness,5.56,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+32,Combination,Redness,2.84,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+53,Oily,Fine Lines,7.68,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+69,Combination,Acne,5.4,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+37,Sensitive,Dark Spots,6.43,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+36,Combination,Dryness,5.71,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+25,Normal,Dark Spots,2.8,Hydrating Cream Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+59,Oily,Hyperpigmentation,8.49,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+52,Normal,Acne,1.39,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+60,Dry,Fine Lines,1.45,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+56,Oily,Wrinkles,9.69,Balancing Micellar Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+62,Dry,Redness,3.34,Soothing Milk Cleanser,Barrier Restore Moisturizer,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+41,Sensitive,Redness,2.56,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+58,Sensitive,Wrinkles,5.85,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+10,Oily,Hyperpigmentation,3.25,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+57,Dry,Uneven Skin Tone,9.94,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+17,Oily,Hyperpigmentation,2.87,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+51,Oily,Hyperpigmentation,3.92,Balancing Micellar Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+66,Normal,Dark Spots,1.76,Brightening Gel Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Tinted Mineral SPF 35
+41,Dry,Dark Spots,9.88,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+49,Sensitive,Acne,5.79,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+39,Sensitive,Wrinkles,5.73,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+43,Combination,Large Pores,2.67,Balancing Micellar Cleanser,Oil-Free Hydrator,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+26,Normal,Large Pores,3.37,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+60,Combination,Sun Damage,7.65,Brightening Gel Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+10,Combination,Dark Spots,8.19,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+11,Combination,Large Pores,3.89,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Daily Defense SPF 40
+41,Sensitive,Dark Spots,1.05,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+37,Oily,Sun Damage,1.05,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+52,Combination,Redness,6.85,Balancing Micellar Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Normal,Dryness,8.74,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+79,Normal,Large Pores,4.19,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+46,Sensitive,Redness,7.48,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+60,Sensitive,Redness,5.18,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+34,Dry,Dark Spots,7.65,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Mineral Sunscreen SPF 30
+56,Sensitive,Acne,8.44,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+63,Normal,Dark Spots,5.68,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+98,Combination,Fine Lines,6.69,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+20,Normal,Redness,3.48,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+55,Normal,Large Pores,4.83,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+83,Oily,Acne,6.88,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Daily Defense SPF 40
+36,Oily,Dryness,2.21,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+22,Combination,Uneven Skin Tone,8.87,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+35,Dry,Acne,8.68,Soothing Milk Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+62,Oily,Large Pores,7.68,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+20,Normal,Sun Damage,8.69,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+75,Normal,Dark Spots,1.05,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+62,Sensitive,Sun Damage,5.97,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+100,Sensitive,Wrinkles,8.51,Soothing Milk Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+61,Normal,Dryness,6.02,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+41,Oily,Redness,5.9,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+26,Dry,Wrinkles,3.73,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+51,Sensitive,Acne,7.88,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+56,Sensitive,Sun Damage,5.6,Soothing Milk Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+30,Normal,Redness,2.39,Balancing Micellar Cleanser,Rich Repair Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+15,Dry,Uneven Skin Tone,5.48,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Tinted Mineral SPF 35
+34,Dry,Uneven Skin Tone,7.2,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+65,Oily,Uneven Skin Tone,5.52,Hydrating Cream Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+22,Dry,Acne,8.74,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+36,Normal,Fine Lines,9.05,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+61,Combination,Acne,3.07,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+58,Oily,Dark Spots,5.53,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+55,Sensitive,Redness,5.83,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+28,Dry,Large Pores,4.11,Soothing Milk Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+58,Oily,Redness,4.91,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+32,Combination,Uneven Skin Tone,7.62,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+36,Dry,Hyperpigmentation,7.37,Brightening Gel Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+18,Combination,Large Pores,1.73,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Daily Defense SPF 40
+21,Sensitive,Hyperpigmentation,2.65,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Daily Defense SPF 40
+58,Sensitive,Wrinkles,2.62,Soothing Milk Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+62,Normal,Fine Lines,2.24,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+29,Normal,Hyperpigmentation,5.35,Brightening Gel Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+39,Normal,Uneven Skin Tone,5.69,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+18,Combination,Dark Spots,4.31,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+50,Normal,Fine Lines,9.98,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+27,Combination,Wrinkles,3.32,Gentle Foaming Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+32,Sensitive,Fine Lines,6.92,Soothing Milk Cleanser,Oil-Free Hydrator,Centella Calm Serum,Mineral Sunscreen SPF 30
+23,Combination,Redness,9.51,Brightening Gel Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Mineral Sunscreen SPF 30
+28,Sensitive,Sun Damage,2.06,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+45,Combination,Dryness,5.68,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+31,Sensitive,Hyperpigmentation,2.93,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+51,Combination,Wrinkles,2.45,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+36,Dry,Fine Lines,8.79,Gentle Foaming Cleanser,Rich Repair Cream,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+19,Normal,Acne,8.91,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+65,Dry,Dark Spots,2.99,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+52,Normal,Large Pores,1.63,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+29,Dry,Sun Damage,1.87,Soothing Milk Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+44,Dry,Sun Damage,4.34,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+17,Normal,Redness,4.68,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+18,Dry,Dryness,8.95,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+35,Oily,Sun Damage,6.05,Gentle Foaming Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+36,Dry,Dryness,7.6,Hydrating Cream Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+18,Combination,Fine Lines,7.89,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+33,Oily,Fine Lines,9.71,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+83,Combination,Dark Spots,3.24,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+43,Normal,Fine Lines,8.86,Balancing Micellar Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Tinted Mineral SPF 35
+59,Dry,Acne,8.04,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+41,Sensitive,Acne,5.93,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+54,Combination,Acne,2.39,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+20,Normal,Large Pores,5.16,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+77,Sensitive,Fine Lines,1.81,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Lightweight SPF 50 Fluid
+58,Dry,Wrinkles,3.47,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+24,Oily,Uneven Skin Tone,2.0,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+39,Sensitive,Large Pores,3.25,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+44,Normal,Dryness,8.47,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+39,Dry,Acne,6.56,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+48,Sensitive,Wrinkles,7.07,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+62,Dry,Uneven Skin Tone,9.18,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+20,Dry,Sun Damage,2.61,Soothing Milk Cleanser,Rich Repair Cream,Salicylic Acid Acne Serum,Hydrating Sunscreen SPF 50
+52,Normal,Uneven Skin Tone,6.91,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+25,Sensitive,Hyperpigmentation,8.62,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+40,Sensitive,Redness,5.75,Soothing Milk Cleanser,Anti-Aging Firming Cream,Centella Calm Serum,Mineral Sunscreen SPF 30
+19,Oily,Dark Spots,5.46,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+42,Sensitive,Fine Lines,4.81,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+82,Oily,Uneven Skin Tone,9.73,Gentle Foaming Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+29,Combination,Fine Lines,6.82,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+50,Dry,Wrinkles,1.52,Hydrating Cream Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+22,Sensitive,Fine Lines,3.15,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+38,Oily,Large Pores,1.69,Balancing Micellar Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+53,Combination,Redness,6.5,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+32,Normal,Dryness,7.86,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+43,Oily,Wrinkles,6.09,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+57,Oily,Acne,3.29,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+45,Dry,Uneven Skin Tone,3.57,Hydrating Cream Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Daily Defense SPF 40
+60,Dry,Uneven Skin Tone,7.88,Hydrating Cream Cleanser,Barrier Restore Moisturizer,Vitamin C Glow Serum,Tinted Mineral SPF 35
+44,Dry,Uneven Skin Tone,8.12,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+29,Oily,Redness,7.2,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Lightweight SPF 50 Fluid
+78,Combination,Dryness,8.68,Brightening Gel Cleanser,Anti-Aging Firming Cream,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+30,Combination,Uneven Skin Tone,1.36,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+56,Dry,Fine Lines,1.61,Soothing Milk Cleanser,Rich Repair Cream,Centella Calm Serum,Hydrating Sunscreen SPF 50
+76,Normal,Wrinkles,5.39,Brightening Gel Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+18,Combination,Dark Spots,2.04,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Daily Defense SPF 40
+31,Normal,Hyperpigmentation,5.88,Balancing Micellar Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Daily Defense SPF 40
+32,Oily,Large Pores,5.89,Balancing Micellar Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+38,Normal,Hyperpigmentation,7.86,Brightening Gel Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Tinted Mineral SPF 35
+20,Dry,Redness,3.62,Brightening Gel Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+38,Oily,Wrinkles,8.58,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Hydrating Sunscreen SPF 50
+22,Normal,Acne,7.83,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+11,Dry,Large Pores,9.75,Soothing Milk Cleanser,Rich Repair Cream,Hyaluronic Acid Hydration Serum,Daily Defense SPF 40
+50,Oily,Hyperpigmentation,9.82,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+52,Oily,Large Pores,9.42,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+29,Sensitive,Large Pores,5.44,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Hydrating Sunscreen SPF 50
+36,Combination,Wrinkles,5.33,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+13,Sensitive,Hyperpigmentation,2.72,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+13,Oily,Uneven Skin Tone,5.36,Gentle Foaming Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+60,Oily,Sun Damage,7.28,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+31,Oily,Hyperpigmentation,9.17,Balancing Micellar Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+22,Sensitive,Hyperpigmentation,5.45,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+44,Combination,Hyperpigmentation,7.08,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+10,Dry,Sun Damage,6.08,Soothing Milk Cleanser,Rich Repair Cream,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+17,Combination,Uneven Skin Tone,5.94,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+45,Oily,Dryness,1.12,Balancing Micellar Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Lightweight SPF 50 Fluid
+68,Sensitive,Wrinkles,3.22,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+35,Oily,Acne,2.77,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+90,Oily,Dryness,9.35,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+27,Oily,Dryness,8.49,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+55,Oily,Dark Spots,2.71,Gentle Foaming Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+19,Combination,Dark Spots,6.81,Hydrating Cream Cleanser,Anti-Aging Firming Cream,Niacinamide Brightening Serum,Daily Defense SPF 40
+65,Dry,Uneven Skin Tone,4.33,Brightening Gel Cleanser,Anti-Aging Firming Cream,Vitamin C Glow Serum,Tinted Mineral SPF 35
+84,Oily,Dryness,9.49,Balancing Micellar Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Tinted Mineral SPF 35
+19,Oily,Dryness,5.44,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+56,Oily,Wrinkles,2.64,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+81,Sensitive,Uneven Skin Tone,7.51,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+41,Normal,Wrinkles,6.15,Brightening Gel Cleanser,Anti-Aging Firming Cream,Retinol Renewal Serum,Daily Defense SPF 40
+27,Dry,Wrinkles,1.82,Hydrating Cream Cleanser,Rich Repair Cream,Retinol Renewal Serum,Tinted Mineral SPF 35
+13,Sensitive,Acne,7.87,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+32,Oily,Uneven Skin Tone,4.59,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+38,Dry,Large Pores,7.2,Gentle Foaming Cleanser,Rich Repair Cream,Centella Calm Serum,Hydrating Sunscreen SPF 50
+62,Normal,Hyperpigmentation,4.96,Gentle Foaming Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+39,Dry,Redness,5.95,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+27,Normal,Acne,5.34,Balancing Micellar Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Mineral Sunscreen SPF 30
+38,Combination,Fine Lines,3.01,Brightening Gel Cleanser,Lightweight Daily Lotion,Centella Calm Serum,Daily Defense SPF 40
+34,Combination,Uneven Skin Tone,1.2,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+53,Sensitive,Redness,4.33,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+22,Oily,Sun Damage,6.92,Gentle Foaming Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Lightweight SPF 50 Fluid
+31,Dry,Redness,9.04,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+38,Combination,Dryness,9.19,Brightening Gel Cleanser,Lightweight Daily Lotion,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+56,Sensitive,Dryness,7.82,Gentle Foaming Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+36,Combination,Large Pores,7.17,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+63,Normal,Hyperpigmentation,5.04,Brightening Gel Cleanser,Lightweight Daily Lotion,Vitamin C Glow Serum,Tinted Mineral SPF 35
+46,Oily,Large Pores,2.5,Balancing Micellar Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+58,Dry,Uneven Skin Tone,4.8,Hydrating Cream Cleanser,Oil-Free Hydrator,Vitamin C Glow Serum,Hydrating Sunscreen SPF 50
+63,Sensitive,Acne,7.38,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Mineral Sunscreen SPF 30
+35,Oily,Sun Damage,3.5,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+35,Oily,Acne,6.68,Gentle Foaming Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+29,Oily,Dryness,6.34,Gentle Foaming Cleanser,Rich Repair Cream,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+54,Combination,Acne,4.02,Hydrating Cream Cleanser,Lightweight Daily Lotion,Salicylic Acid Acne Serum,Lightweight SPF 50 Fluid
+45,Oily,Sun Damage,1.59,Soothing Milk Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+59,Sensitive,Wrinkles,4.95,Soothing Milk Cleanser,Barrier Restore Moisturizer,Centella Calm Serum,Tinted Mineral SPF 35
+52,Normal,Sun Damage,4.92,Brightening Gel Cleanser,Lightweight Daily Lotion,Retinol Renewal Serum,Daily Defense SPF 40
+29,Oily,Uneven Skin Tone,1.52,Brightening Gel Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+63,Combination,Uneven Skin Tone,3.48,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Hydrating Sunscreen SPF 50
+24,Combination,Sun Damage,4.88,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Daily Defense SPF 40
+34,Combination,Hyperpigmentation,9.11,Brightening Gel Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+48,Combination,Uneven Skin Tone,7.13,Balancing Micellar Cleanser,Lightweight Daily Lotion,Niacinamide Brightening Serum,Mineral Sunscreen SPF 30
+17,Oily,Hyperpigmentation,4.48,Gentle Foaming Cleanser,Oil-Free Hydrator,Niacinamide Brightening Serum,Lightweight SPF 50 Fluid
+49,Dry,Acne,4.59,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Mineral Sunscreen SPF 30
+12,Sensitive,Dryness,1.5,Soothing Milk Cleanser,Barrier Restore Moisturizer,Hyaluronic Acid Hydration Serum,Tinted Mineral SPF 35
+100,Oily,Wrinkles,3.8,Balancing Micellar Cleanser,Oil-Free Hydrator,Retinol Renewal Serum,Mineral Sunscreen SPF 30
+22,Sensitive,Dark Spots,6.05,Soothing Milk Cleanser,Oil-Free Hydrator,Salicylic Acid Acne Serum,Tinted Mineral SPF 35

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Gentle Foaming Cleanser",
+    "category": "Cleanser",
+    "key_ingredients": ["Niacinamide", "Aloe Vera", "Glycerin"],
+    "suitable_for": ["Oily", "Combination"],
+    "exclude_if": []
+  },
+  {
+    "name": "Hydrating Cream Cleanser",
+    "category": "Cleanser",
+    "key_ingredients": ["Ceramides", "Hyaluronic Acid", "Fragrance"],
+    "suitable_for": ["Dry", "Normal"],
+    "exclude_if": ["Fragrance"]
+  },
+  {
+    "name": "Balancing Micellar Cleanser",
+    "category": "Cleanser",
+    "key_ingredients": ["Salicylic Acid", "Witch Hazel", "Aloe Vera"],
+    "suitable_for": ["Oily", "Combination", "Normal"],
+    "exclude_if": []
+  },
+  {
+    "name": "Soothing Milk Cleanser",
+    "category": "Cleanser",
+    "key_ingredients": ["Oat Extract", "Chamomile", "Glycerin"],
+    "suitable_for": ["Sensitive", "Dry"],
+    "exclude_if": []
+  },
+  {
+    "name": "Brightening Gel Cleanser",
+    "category": "Cleanser",
+    "key_ingredients": ["Vitamin C", "Niacinamide", "Alcohol"],
+    "suitable_for": ["Normal", "Combination"],
+    "exclude_if": ["Alcohol"]
+  },
+
+  {
+    "name": "Oil-Free Hydrator",
+    "category": "Moisturizer",
+    "key_ingredients": ["Hyaluronic Acid", "Niacinamide", "Green Tea Extract"],
+    "suitable_for": ["Oily", "Combination"],
+    "exclude_if": []
+  },
+  {
+    "name": "Rich Repair Cream",
+    "category": "Moisturizer",
+    "key_ingredients": ["Shea Butter", "Ceramides", "Squalane", "Fragrance"],
+    "suitable_for": ["Dry", "Normal"],
+    "exclude_if": ["Fragrance"]
+  },
+  {
+    "name": "Barrier Restore Moisturizer",
+    "category": "Moisturizer",
+    "key_ingredients": ["Ceramides", "Peptides", "Glycerin"],
+    "suitable_for": ["Sensitive", "Dry", "Normal"],
+    "exclude_if": []
+  },
+  {
+    "name": "Lightweight Daily Lotion",
+    "category": "Moisturizer",
+    "key_ingredients": ["Aloe Vera", "Hyaluronic Acid", "Zinc"],
+    "suitable_for": ["Normal", "Combination", "Oily"],
+    "exclude_if": []
+  },
+  {
+    "name": "Anti-Aging Firming Cream",
+    "category": "Moisturizer",
+    "key_ingredients": ["Retinol", "Peptides", "Vitamin E", "Parabens"],
+    "suitable_for": ["Normal", "Dry"],
+    "exclude_if": ["Parabens"]
+  },
+
+  {
+    "name": "Niacinamide Brightening Serum",
+    "category": "Serum",
+    "key_ingredients": ["Niacinamide", "Zinc", "Hyaluronic Acid"],
+    "suitable_for": ["Oily", "Combination", "Normal"],
+    "exclude_if": []
+  },
+  {
+    "name": "Vitamin C Glow Serum",
+    "category": "Serum",
+    "key_ingredients": ["Vitamin C", "Ferulic Acid", "Vitamin E", "Alcohol"],
+    "suitable_for": ["Normal", "Dry"],
+    "exclude_if": ["Alcohol"]
+  },
+  {
+    "name": "Hyaluronic Acid Hydration Serum",
+    "category": "Serum",
+    "key_ingredients": ["Hyaluronic Acid", "Glycerin", "Aloe Vera"],
+    "suitable_for": ["Dry", "Sensitive", "Normal"],
+    "exclude_if": []
+  },
+  {
+    "name": "Retinol Renewal Serum",
+    "category": "Serum",
+    "key_ingredients": ["Retinol", "Peptides", "Squalane"],
+    "suitable_for": ["Normal", "Dry", "Combination"],
+    "exclude_if": []
+  },
+  {
+    "name": "Salicylic Acid Acne Serum",
+    "category": "Serum",
+    "key_ingredients": ["Salicylic Acid", "Tea Tree Oil", "Niacinamide"],
+    "suitable_for": ["Oily", "Combination"],
+    "exclude_if": []
+  },
+  {
+    "name": "Centella Calm Serum",
+    "category": "Serum",
+    "key_ingredients": ["Centella Asiatica", "Allantoin", "Panthenol"],
+    "suitable_for": ["Sensitive", "Dry", "Normal"],
+    "exclude_if": []
+  },
+
+  {
+    "name": "Lightweight SPF 50 Fluid",
+    "category": "Sunscreen",
+    "key_ingredients": ["Zinc Oxide", "Niacinamide", "Hyaluronic Acid"],
+    "suitable_for": ["Oily", "Combination"],
+    "exclude_if": []
+  },
+  {
+    "name": "Hydrating Sunscreen SPF 50",
+    "category": "Sunscreen",
+    "key_ingredients": ["Titanium Dioxide", "Ceramides", "Glycerin", "Fragrance"],
+    "suitable_for": ["Dry", "Normal"],
+    "exclude_if": ["Fragrance"]
+  },
+  {
+    "name": "Mineral Sunscreen SPF 30",
+    "category": "Sunscreen",
+    "key_ingredients": ["Zinc Oxide", "Titanium Dioxide", "Aloe Vera"],
+    "suitable_for": ["Sensitive", "Dry", "Normal", "Oily", "Combination"],
+    "exclude_if": []
+  },
+  {
+    "name": "Daily Defense SPF 40",
+    "category": "Sunscreen",
+    "key_ingredients": ["Avobenzone", "Octinoxate", "Vitamin E", "Alcohol"],
+    "suitable_for": ["Normal", "Combination"],
+    "exclude_if": ["Alcohol"]
+  },
+  {
+    "name": "Tinted Mineral SPF 35",
+    "category": "Sunscreen",
+    "key_ingredients": ["Zinc Oxide", "Iron Oxides", "Squalane"],
+    "suitable_for": ["Normal", "Dry", "Sensitive"],
+    "exclude_if": []
+  }
+]
