@@ -39,10 +39,10 @@ st.set_page_config(
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-model_path = os.path.join(BASE_DIR, "models", "skincare_model.pkl")
-DATA_PATH    = os.path.join("data", "skincare_dataset.csv")
+
+MODEL_PATH = os.path.join(BASE_DIR, "models", "skincare_model.pkl")
+DATA_PATH = os.path.join(BASE_DIR, "data", "skincare_dataset.csv")
 METRICS_PATH = os.path.join("data", "model_metrics.json")
 
 FEATURE_NAMES = ["Age", "Skin_Type", "Concern", "Severity_Score"]
