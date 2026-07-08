@@ -89,7 +89,8 @@ def load_model() -> dict:
 @st.cache_data
 def load_product_catalog() -> list[dict]:
     """Load the product catalog JSON file once and cache it."""
-    catalog_path = os.path.join("products", "product_catalog.json")
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    catalog_path = os.path.join(BASE_DIR, "products", "product_catalog.json")
     with open(catalog_path, "r", encoding="utf-8") as fh:
         return json.load(fh)
 
