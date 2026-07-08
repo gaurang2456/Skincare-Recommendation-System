@@ -40,7 +40,8 @@ st.set_page_config(
 # Paths
 # ---------------------------------------------------------------------------
 
-MODEL_PATH   = os.path.join("models", "skincare_model.pkl")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+model_path = os.path.join(BASE_DIR, "models", "skincare_model.pkl")
 DATA_PATH    = os.path.join("data", "skincare_dataset.csv")
 METRICS_PATH = os.path.join("data", "model_metrics.json")
 

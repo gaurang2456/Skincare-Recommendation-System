@@ -45,7 +45,8 @@ def load_model() -> dict:
 
     Stops the app with an error message if the file is missing or corrupted.
     """
-    model_path = os.path.join("models", "skincare_model.pkl")
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    model_path = os.path.join(BASE_DIR, "models", "skincare_model.pkl")
 
     if not os.path.exists(model_path):
         st.error(
