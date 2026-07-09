@@ -102,7 +102,7 @@ def main() -> None:
         )
 
     with col_right:
-        st.metric(
+        st.markdown(
             """
             **What you'll get:**
             - ✅ 4 product recommendations
