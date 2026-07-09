@@ -91,10 +91,9 @@ def main() -> None:
     col_left, col_right = st.columns([2, 1])
 
     with col_left:
-        st.markdown("### Ready to get started?")
+        st.markdown("Your routine starts with your skin")
         st.markdown(
-            "Fill in the short assessment form and receive your personalised "
-            "skincare routine in seconds."
+            "Complete a quick assessment and receive recommendations tailored to your profile. "
         )
         st.page_link(
             "pages/1_Assessment.py",
@@ -103,7 +102,7 @@ def main() -> None:
         )
 
     with col_right:
-        st.markdown(
+        st.metric(
             """
             **What you'll get:**
             - ✅ 4 product recommendations
