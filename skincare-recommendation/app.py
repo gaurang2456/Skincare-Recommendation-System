@@ -76,18 +76,13 @@ def main() -> None:
     # Load model on startup (cached — no performance cost on rerun)
     load_model()
 
-    st.title("✨ AI Skincare Recommendation System")
+    st.title("✨ Corium - Skincare, made personal. ")
 
     st.markdown(
         """
-        Welcome! This application uses a machine learning model trained on skincare data
-        to recommend the best **Cleanser, Moisturizer, Serum, and Sunscreen** for your
-        unique skin profile.
+       Build a skincare routine around your skin type, concerns, and ingredient preferences. Corium provides personalized product recommendations and a structured daily routine designed around your individual profile.
 
-        Simply complete a short skin assessment — your age, skin type, current concerns,
-        and any ingredient sensitivities — and the system will generate personalised
-        product recommendations along with a tailored morning and night routine.
-        You can also download a PDF summary of your results to keep for reference.
+       Complete a short assessment to receive product recommendations across essential skincare categories, along with a personalized morning and evening routine.
         """
     )
 
